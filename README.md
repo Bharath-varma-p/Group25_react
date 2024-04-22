@@ -33,15 +33,22 @@ Use your preferred method to run the app on an emulator, simulator, or physical 
 
 ## Additional Information
 
-For more details on Expo and React Native, refer to the following documentation:
+## Functionality
+- **Random Quotes**: Display daily motivational quotes prominently in large text, along with the name of the author.
+- **Author List**: Present a list of authors, allowing users to search for specific authors.
+- **Author Details**: Expandable list items reveal additional information about the author, including their biography and the total count of quotes.
+- **Tag List**: Showcase a list of tags associated with the respective count of quotes.
+- **Bookmarked Quotes**: Display quotes bookmarked by the user for easy access.
 
-- [Expo Documentation](https://docs.expo.dev/)
-- [React Native Documentation](https://reactnative.dev/docs/getting-started)
-- [Random Quotes API](https://github.com/lukePeavey/quotable)
+## Technologies Used
+- **JavaScript (JS)**: The primary language used for building the React Native application.
+- **React Native**: A framework for building native mobile applications using JavaScript and React.
+- **TypeScript**: Optionally used for type safety and improved developer experience.
+- **Node.js**: Used for backend development and package management.
+- **Expo**: A platform for building and deploying React Native applications.
+- **GitHub**: Version control system for collaborative development and code management.
+- **Visual Studio Code (VSCode)**: Preferred Integrated Development Environment (IDE) for React Native development.
 
-Feel free to customize and extend the app as needed for your project! If you encounter any issues or have questions, please check the documentation or open an issue in this repository.
-
-Happy coding!
 
 ## Screenshots
 
