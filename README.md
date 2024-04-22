@@ -81,3 +81,10 @@ cd
    <img src="screenshots/img5.png" alt="Caption 1" height="200">
 
    Displays the quotes bookmarked by the customer.
+
+
+## Video
+
+<video src="video.mp4" controls>
+   Video will display here.
+</video>
